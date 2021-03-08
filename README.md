@@ -1,10 +1,10 @@
-# Sistemas Operacionais I - Profº Leandro Colevati Dos Santos - 2021-1
-### ISO100-A3_ADS_FATEC-ZL
+# Sistemas Operacionais I - ProfÂº Leandro Colevati Dos Santos - 2021-1
+### ISO100-A4_ADS_FATEC-ZL
 
-Quarta aula de Sistemas Operacionais I, nessa aula é demonstrado os conceitos de Threads com uma aplicação Java que utiliza de duas threads (ThreadId e ThreadCalc) para exemplificar como o SO as executa;
+Quarta aula de Sistemas Operacionais I, nessa aula Ã© demonstrado os conceitos de Threads com uma aplicaÃ§Ã£o Java que utiliza de duas threads (ThreadId e ThreadCalc) para exemplificar como o SO as executa;
 
 
-Abaixo, links para as tarefas propostas após aula:
+Abaixo, links para as tarefas propostas apÃ³s aula:
 * [Tarefa 1](https://github.com/CTRLMarcws/ISO100-T)
 * [Tarefa 2](https://github.com/CTRLMarcws/ISO100-T)
 * [Tarefa 3](https://github.com/CTRLMarcws/ISO100-T)
