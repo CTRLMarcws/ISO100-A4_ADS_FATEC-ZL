@@ -5,9 +5,9 @@ Quarta aula de Sistemas Operacionais I, nessa aula é demonstrado os conceitos d
 
 
 Abaixo, links para as tarefas propostas após aula:
-* [Tarefa 1](https://github.com/CTRLMarcws/ISO100-T)
-* [Tarefa 2](https://github.com/CTRLMarcws/ISO100-T)
-* [Tarefa 3](https://github.com/CTRLMarcws/ISO100-T)
-* [Tarefa 4](https://github.com/CTRLMarcws/ISO100-T)
-* [Tarefa 5](https://github.com/CTRLMarcws/ISO100-T)
-* [Tarefa 6](https://github.com/CTRLMarcws/ISO100-T)
+* [Tarefa 1](https://github.com/CTRLMarcws/ISO100-T4_ADS_FATEC-ZL)
+* [Tarefa 2](https://github.com/CTRLMarcws/ISO100-T5_ADS_FATEC-ZL)
+* [Tarefa 3](https://github.com/CTRLMarcws/ISO100-T6_ADS_FATEC-ZL)
+* [Tarefa 4](https://github.com/CTRLMarcws/ISO100-T7_ADS_FATEC-ZL)
+* [Tarefa 5](https://github.com/CTRLMarcws/ISO100-T8_ADS_FATEC-ZL)
+* [Tarefa 6](https://github.com/CTRLMarcws/ISO100-T9_ADS_FATEC-ZL)
